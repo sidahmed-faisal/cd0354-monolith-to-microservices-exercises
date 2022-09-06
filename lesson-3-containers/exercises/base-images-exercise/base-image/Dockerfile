@@ -74,7 +74,7 @@ CMD ["node"]
 # WORKDIR /usr/src/app
 
 # # Install app dependencies by copying
-# # package.json and package-lock.json
+# # package.json and package-lo   ck.json
 # COPY package*.json ./
 
 # # Install dependencies
